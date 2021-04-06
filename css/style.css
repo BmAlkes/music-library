@@ -306,7 +306,8 @@ form button{
     .warp-img img{
         width: 150px;
         height:200px;
-       
+        padding:1rem;
+        object-fit: cover;
     }
      
 }
